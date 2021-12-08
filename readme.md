@@ -9,12 +9,12 @@ Today's Project is a website that shows you today's news around the world and ca
 * CSS
 * Vanilla Javascript
 * [Fontawesome](https://fontawesome.com/)
-* [Semantic-Ui](https://semantic-ui.com/)
+* [Bootstrap](https://getbootstrap.com/ "Bootstrap")
 * [News API](https://newsapi.org/)
 * [Weather API](https://www.weatherbit.io/api)
 
 ## Project Requirements
-- Design Responsive Website by Semantic-Ui.
+- Design Responsive Website by [Bootstrap](https://getbootstrap.com/ "Bootstrap").
 - Fetch News from [News API](https://newsapi.org/).
 - Use map() js to display News information( title, author, publisher... etc) on Front End Cards.
 - Categorize news into Categories such as health, general, bushiness etc.
